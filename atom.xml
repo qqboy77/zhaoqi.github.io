@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[爱编程的蟋蟀]]></title>
-  <link href="http://qqboy77.github.io/atom.xml" rel="self"/>
-  <link href="http://qqboy77.github.io/"/>
-  <updated>2014-03-04T22:10:12+08:00</updated>
-  <id>http://qqboy77.github.io/</id>
+  <link href="http://zhaoqi.github.io/atom.xml" rel="self"/>
+  <link href="http://zhaoqi.github.io/"/>
+  <updated>2014-03-04T22:29:27+08:00</updated>
+  <id>http://zhaoqi.github.io/</id>
   <author>
     <name><![CDATA[赵琦]]></name>
     
